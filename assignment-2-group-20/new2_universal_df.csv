@@ -1,0 +1,32 @@
+lga_name,percentage_obese,lga_area_km2,distance_to_melbourne_km,population_2015,gym_count,gyms_per_km2,CBD_distance_bin
+Banyule (C),19.8,63.0,23.0,126088,5,0.07937,Within 20-30 km to CBD
+Bayside (C),11.9,37.0,12.0,101268,8,0.21622,Within 10-20 km to CBD
+Boroondara (C),12.5,60.0,12.0,174753,18,0.3,Within 10-20 km to CBD
+Brimbank (C),19.6,123.0,19.0,200860,13,0.10569,Within 10-20 km to CBD
+Cardinia (S),24.9,1282.0,58.0,92298,3,0.00234,Within 50-60 km to CBD
+Casey (C),25.2,409.0,46.0,299528,10,0.02445,Within 40-50 km to CBD
+Darebin (C),19.3,53.0,14.0,151974,7,0.13208,Within 10-20 km to CBD
+Frankston (C),19.9,130.0,42.0,137790,11,0.08462,Within 40-50 km to CBD
+Glen Eira (C),14.9,39.0,17.0,145924,7,0.17949,Within 10-20 km to CBD
+Greater Dandenong (C),16.8,130.0,28.0,156061,8,0.06154,Within 20-30 km to CBD
+Hobsons Bay (C),21.3,64.0,22.0,91674,5,0.07812,Within 20-30 km to CBD
+Hume (C),26.3,504.0,40.0,198176,4,0.00794,Within 40-50 km to CBD
+Kingston (C),18.6,91.0,20.0,156244,8,0.08791,Within 20-30 km to CBD
+Knox (C),18.2,114.0,31.0,158700,8,0.07018,Within 30-40 km to CBD
+Manningham (C),13.9,113.0,21.0,120785,13,0.11504,Within 20-30 km to CBD
+Maribyrnong (C),11.9,31.0,9.0,84783,8,0.25806,Within 0-10 km to CBD
+Maroondah (C),16.7,61.0,33.0,113023,5,0.08197,Within 30-40 km to CBD
+Melbourne (C),8.2,37.0,2.0,136872,14,0.37838,Within 0-10 km to CBD
+Melton (C),27.2,527.0,43.0,134915,6,0.01139,Within 40-50 km to CBD
+Monash (C),14.4,81.0,23.0,189174,17,0.20988,Within 20-30 km to CBD
+Moonee Valley (C),15.7,43.0,9.0,120231,11,0.25581,Within 0-10 km to CBD
+Moreland (C),18.0,51.0,8.0,167870,7,0.13725,Within 0-10 km to CBD
+Mornington Peninsula (S),17.3,724.0,54.0,158831,15,0.02072,Within 50-60 km to CBD
+Nillumbik (S),16.5,432.0,25.0,63675,0,0.0,Within 20-30 km to CBD
+Port Phillip (C),8.2,21.0,6.0,106381,7,0.33333,Within 0-10 km to CBD
+Stonnington (C),9.8,26.0,13.0,108028,4,0.15385,Within 10-20 km to CBD
+Whitehorse (C),14.7,64.0,26.0,166679,6,0.09375,Within 20-30 km to CBD
+Whittlesea (C),24.1,490.0,28.0,196847,6,0.01224,Within 20-30 km to CBD
+Wyndham (C),25.1,542.0,31.0,213815,8,0.01476,Within 30-40 km to CBD
+Yarra (C),12.1,20.0,4.0,89923,7,0.35,Within 0-10 km to CBD
+Yarra Ranges (S),16.4,2465.0,37.0,153391,6,0.00243,Within 30-40 km to CBD

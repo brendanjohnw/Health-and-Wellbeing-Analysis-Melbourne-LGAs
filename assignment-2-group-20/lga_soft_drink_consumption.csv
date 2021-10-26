@@ -1,0 +1,80 @@
+significance, numeric, lga_name06, ci_high, vic_ave, lga_code06, ci_low
+"none",13.5,"Moyne (S)",19.0,12.4,25490,9.5
+"caution",9.9,"Alpine (S)",16.3,12.4,20110,5.9
+"none",13.0,"Ararat (RC)",19.7,12.4,20260,8.3
+"none",13.9,"Ballarat (C)",16.4,12.4,20570,11.6
+"caution",6.1,"Banyule (C)",10.7,12.4,20660,3.4
+"none",15.4,"Bass Coast (S)",21.9,12.4,20740,10.5
+"none",9.7,"Baw Baw (S)",14.6,12.4,20830,6.3
+"caution",6.9,"Bayside (C)",12.0,12.4,20910,3.9
+"none",13.6,"Benalla (RC)",20.3,12.4,21010,8.9
+"caution",4.3,"Boroondara (C)",8.3,12.4,21110,2.2
+"none",12.2,"Brimbank (C)",16.3,12.4,21180,9.1
+"none",12.0,"Buloke (S)",18.4,12.4,21270,7.6
+"none",16.9,"Campaspe (S)",23.1,12.4,21370,12.1
+"none",17.5,"Cardinia (S)",24.0,12.4,21450,12.5
+"none",15.4,"Casey (C)",19.7,12.4,21610,11.9
+"none",13.4,"Central Goldfields (S)",18.9,12.4,21670,9.3
+"worse",19.8,"Colac-Otway (S)",27.7,12.4,21750,13.8
+"none",12.5,"Corangamite (S)",19.0,12.4,21830,8.0
+"caution",6.4,"Darebin (C)",10.5,12.4,21890,3.8
+"none",11.2,"East Gippsland (S)",17.7,12.4,22110,6.8
+"none",11.1,"Frankston (C)",17.3,12.4,22170,7.0
+"none",14.2,"Gannawarra (S)",20.8,12.4,22250,9.4
+"none",10.2,"Glen Eira (C)",15.8,12.4,22310,6.5
+"none",10.5,"Glenelg (S)",15.7,12.4,22410,6.9
+"none",15.7,"Golden Plains (S)",21.5,12.4,22490,11.2
+"worse",19.0,"Greater Bendigo (C)",25.6,12.4,22620,13.8
+"caution",13.3,"Greater Dandenong (C)",21.4,12.4,22670,8.0
+"none",15.3,"Greater Geelong (C)",19.9,12.4,22750,11.6
+"none",16.1,"Greater Shepparton (C)",22.9,12.4,22830,11.1
+"none",9.9,"Hepburn (S)",15.0,12.4,22910,6.4
+"none",17.1,"Hindmarsh (S)",25.4,12.4,22980,11.1
+"none",10.9,"Hobsons Bay (C)",16.0,12.4,23110,7.4
+"none",13.5,"Horsham (RC)",20.1,12.4,23190,8.8
+"none",17.6,"Hume (C)",24.1,12.4,23270,12.6
+"none",11.2,"Indigo (S)",16.7,12.4,23350,7.3
+"none",10.7,"Kingston (C)",15.8,12.4,23430,7.1
+"none",14.0,"Knox (C)",20.7,12.4,23670,9.2
+"none",18.6,"Latrobe (C)",25.7,12.4,23810,13.1
+"caution",12.3,"Loddon (S)",20.9,12.4,23940,6.9
+"none",10.7,"Macedon Ranges (S)",15.7,12.4,24130,7.2
+"none",8.0,"Manningham (C)",12.4,12.4,24210,5.1
+"better",7.2,"Mansfield (S)",11.1,12.4,24250,4.5
+"caution",10.3,"Maribyrnong (C)",17.2,12.4,24330,5.9
+"none",9.5,"Maroondah (C)",14.7,12.4,24410,6.0
+"caution",13.4,"Melbourne (C)",21.7,12.4,24600,7.9
+"worse",20.5,"Melton (S)",27.8,12.4,24650,14.8
+"worse",19.8,"Mildura (RC)",25.2,12.4,24780,15.3
+"none",19.3,"Mitchell (S)",28.1,12.4,24850,12.8
+"none",15.8,"Moira (S)",23.2,12.4,24900,10.4
+"caution",9.5,"Monash (C)",15.8,12.4,24970,5.5
+"caution",9.8,"Moonee Valley (C)",18.2,12.4,25060,5.1
+"none",15.4,"Moorabool (S)",21.2,12.4,25150,10.9
+"none",12.5,"Moreland (C)",18.6,12.4,25250,8.2
+"none",18.1,"Mornington Peninsula (S)",28.3,12.4,25340,11.0
+"none",10.3,"Mount Alexander (S)",15.9,12.4,25430,6.6
+"none",9.4,"Murrindindi (S)",14.1,12.4,25620,6.2
+"none",10.3,"Nillumbik (S)",15.3,12.4,25710,6.8
+"none",13.1,"Northern Grampians (S)",18.8,12.4,25810,8.8
+"caution",9.8,"Port Phillip (C)",15.9,12.4,25900,5.8
+"worse",19.6,"Pyrenees (S)",28.1,12.4,25990,13.3
+"caution",7.9,"Queenscliffe (B)",18.7,12.4,26080,3.1
+"caution",11.7,"South Gippsland (S)",19.7,12.4,26170,6.7
+"none",12.9,"Southern Grampians (S)",18.2,12.4,26260,8.9
+"caution",9.5,"Stonnington (C)",16.3,12.4,26350,5.4
+"none",10.2,"Strathbogie (S)",15.9,12.4,26430,6.4
+"none",7.8,"Surf Coast (S)",11.7,12.4,26490,5.1
+"none",15.5,"Swan Hill (RC)",21.9,12.4,26610,10.7
+"none",9.9,"Towong (S)",15.8,12.4,26670,6.1
+"none",11.9,"Wangaratta (RC)",17.8,12.4,26700,7.7
+"none",10.3,"Warrnambool (C)",15.5,12.4,26730,6.7
+"none",9.2,"Wellington (S)",14.1,12.4,26810,5.9
+"none",14.0,"West Wimmera (S)",21.8,12.4,26890,8.7
+"caution",10.0,"Whitehorse (C)",16.7,12.4,26980,5.8
+"none",13.8,"Whittlesea (C)",19.5,12.4,27070,9.5
+"none",18.4,"Wodonga (RC)",25.7,12.4,27170,12.9
+"worse",18.8,"Wyndham (C)",25.1,12.4,27260,13.7
+"caution",5.5,"Yarra (C)",9.5,12.4,27350,3.1
+"none",12.1,"Yarra Ranges (S)",17.0,12.4,27450,8.5
+"caution",15.8,"Yarriambiack (S)",25.4,12.4,27630,9.4
