@@ -12,6 +12,9 @@ Benjamin Lo (1171146), Vishal Katwe (1173365) and Brendan Lee (1166409)
 
 Datasets were obtained via Aurin (Australian Urban Research Institute)
 
+# Research Write up:
+https://docs.google.com/document/d/1L8fkH67ouLTjMuZGi0k7wnkKKCq__7GMuIFyHxUeV7E/edit?usp=sharing
+
 # Dependencies:
 
 - Week 1,2,4 workshop worksheets (visualization, regular expressions, python pandas)
